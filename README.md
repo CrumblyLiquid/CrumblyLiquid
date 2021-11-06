@@ -1,4 +1,3 @@
-// Links
 [website]: www.crumblyliquid.com
 [youtube]: https://www.youtube.com/channel/UCitX269GR-0nT35ypZStdDg
 [twitter]: https://twitter.com/CrumblyLiquid
@@ -16,4 +15,4 @@ Feel free to contact me if you need anything!
 - Java
 
 ### Contact
-[crumblyliquid@gmail.com](mailto:crumblyliquid@gmail.com)
+[crumblyliquid@gmail.com][mail]
