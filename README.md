@@ -13,9 +13,7 @@ Feel free to contact me if you need anything!
 ### Languages
 - Python
 - Rust
-- JavaScript
-- C#
-- Java
+- C/C++
 
 ### Contact
 [crumblyliquid@gmail.com][mail]
