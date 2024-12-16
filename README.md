@@ -14,6 +14,3 @@ Feel free to contact me if you need anything!
 - Python
 - Rust
 - C/C++
-
-### Contact
-[crumblyliquid@gmail.com][mail]
