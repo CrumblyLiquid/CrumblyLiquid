@@ -6,19 +6,15 @@
 
 ## Hi, I'm CrumblyLiquid! :dolphin:
 
-I'm currently doing ground breaking research on the properties of accelerated discrete endofunctors
-while pursuing a career in monoid oriented programming. My schedule is pretty busy
-as having to travel through non-euclidian space is pretty time consuming.
-I'm probably going to have to invent a new form of Pascalian algebra to solve
-this fundamentally unordered traveling salesman problem once and for all.
+I'm a CS student with a **passion for open source**!
+I've got lot of ideas but not enough free time to realize them.
+My current interests are **programming languages**, **kernels**
+and most recently **self-hosting**.
 
-## Interests :telescope:
+I like writing programs in **Rust**, typesetting with **Typst**
+and my favourite editor is **Neovim**.
+My hardware is currently running a mix of **NixOS**, **Arch Linux** and **OpenSUSE**.
 
-- Finnish machine supervisory program (Linux) :computer:
-- Highly extensible modal code and text authoring solution (Neovim) :pencil:
-- Enterprise-grade type-safe zero-cost software developement platform (Rust) :rocket:
-- Next-generation computational syntax architecture (Language design) :alien:
+If you'd like to see what configurations I'm using, checkout my [dotfiles](https://github.com/CrumblyLiquid/dotfiles) repository!
 
-## Currently Learning :book:
-
-- How to exit Vim :fire:
+Otherwise visit my [website](www.crumblyliquid.com)!
