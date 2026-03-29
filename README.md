@@ -17,4 +17,4 @@ My hardware is currently running a mix of **NixOS**, **Arch Linux** and **OpenSU
 
 If you'd like to see what configurations I'm using, checkout my [dotfiles](https://github.com/CrumblyLiquid/dotfiles) repository!
 
-Otherwise visit my [website](www.crumblyliquid.com)!
+Otherwise visit my [website](https://crumblyliquid.com)\!
